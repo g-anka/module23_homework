@@ -1,0 +1,10 @@
+.header {
+    margin: 31px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex-wrap: nowrap; }
+@media screen and (max-width: 800px) {
+    .header {
+        margin: 20px; }
+}
